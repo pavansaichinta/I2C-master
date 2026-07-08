@@ -1,4 +1,3 @@
-# I2C-master
 # I2C Master Controller (Verilog)
 
 A fully synthesizable, parameterized I2C (Inter-Integrated Circuit) Master Controller implemented in Verilog HDL. This design handles standard I2C protocol sequencing to communicate with peripheral devices (like EEPROMs, temperature sensors, or RTCs) using a two-wire serial interface.
